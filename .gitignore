@@ -1,0 +1,21 @@
+# Local biometric records and photographs
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+fotos_cadastradas/
+# Python and development environment
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.vscode/
+.idea/
+.deepface/
+*.log
+.DS_Store
+Thumbs.db
